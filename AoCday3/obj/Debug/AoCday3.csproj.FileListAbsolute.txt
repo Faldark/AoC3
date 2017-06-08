@@ -1,0 +1,6 @@
+c:\users\bchukhno\documents\visual studio 2015\Projects\AoCday3\AoCday3\bin\Debug\AoCday3.exe.config
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoCday3\AoCday3\bin\Debug\AoCday3.exe
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoCday3\AoCday3\bin\Debug\AoCday3.pdb
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoCday3\AoCday3\obj\Debug\AoCday3.csprojResolveAssemblyReference.cache
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoCday3\AoCday3\obj\Debug\AoCday3.exe
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoCday3\AoCday3\obj\Debug\AoCday3.pdb

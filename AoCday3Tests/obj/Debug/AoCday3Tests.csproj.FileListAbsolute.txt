@@ -1,0 +1,8 @@
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoCday3\AoCday3Tests\bin\Debug\AoCday3Tests.dll
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoCday3\AoCday3Tests\bin\Debug\AoCday3Tests.pdb
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoCday3\AoCday3Tests\bin\Debug\AoCday3.exe
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoCday3\AoCday3Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoCday3\AoCday3Tests\bin\Debug\AoCday3.pdb
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoCday3\AoCday3Tests\obj\Debug\AoCday3Tests.csprojResolveAssemblyReference.cache
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoCday3\AoCday3Tests\obj\Debug\AoCday3Tests.dll
+C:\Users\Bchukhno\Documents\Visual Studio 2015\Projects\AoCday3\AoCday3Tests\obj\Debug\AoCday3Tests.pdb
